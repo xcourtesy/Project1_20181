@@ -1,5 +1,5 @@
 
-# Trưởng Nhóm: Nguyễn Xuân Lưu
+* Trưởng Nhóm: Nguyễn Xuân Lưu
 * Ngày: 27-oct-2018
 
 Chào mọi người, mình xin chốt một số công việc đến mọi người.
